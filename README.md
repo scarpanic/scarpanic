@@ -1,40 +1,28 @@
-<div align="center">
-  <!-- Тема / Название -->
-  <code>ℹ️ Тема: PHANTOM</code>
-  
-  <h1>scarpanic</h1>
+# ℹ️ Тема: PHANTOM
 
-  <!-- Аватарка, автоматически подтягивающаяся из твоего Telegram -->
-  <img src="https://t.me" width="130" height="130" style="border-radius: 50%; border: 3px solid #6b5bb5; padding: 3px;" alt="scarpanic">
+<div align="center">
+  <h2>scarpanic</h2>
+
+  <!-- Аватарка из Телеграма -->
+  <img src="https://t.me" width="130" height="130" style="border-radius: 50%;" alt="scarpanic">
+  
   <br><br>
 
-  <!-- Кнопка Telegram в стиле скриншота -->
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram">
-  </a>
-  
-  <!-- Счетчик просмотров твоего профиля GitHub -->
-  <img src="https://komarev.com" alt="Views">
+  <!-- Простая и надежная ссылка на Телеграм -->
+  <a href="https://t.me">👉 СВЯЗЬ В TELEGRAM: @scarpanic 🚀</a>
 </div>
 
-<br>
+---
 
 ### 👤 PROFILE
+- **NAME:** scarpanic
+- **USERNAME:** @scarpanic
+- **AGE:** 15
 
-<table>
-  <tr>
-    <td width="50%"><img src="https://shields.io" width="100%"></td>
-    <td width="50%"><img src="https://shields.io" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://shields.io" width="100%"></td>
-    <td width="50%">
-      <img src="https://shields.io" width="100%">
-    </td>
-  </tr>
-</table>
+---
 
 ### 📊 STATS
+*(Статистика обновится, когда появятся первые проекты)*
 
 <div align="center">
   <img src="https://vercel.app" alt="GitHub Stats" />
